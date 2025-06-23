@@ -29,9 +29,9 @@ streamlit run app.py
 ## 📊 Screenshots
 
 ![screenshot1](screenshots/screenshot1.png)
-![screenshot1](screenshots/screenshot2.png)
-![screenshot1](screenshots/screenshot3.png)
-![screenshot1](screenshots/screenshot4.png)
+![screenshot2](screenshots/screenshot2.png)
+![screenshot3](screenshots/screenshot3.png)
+![screenshot4](screenshots/screenshot4.png)
 
 ## 📅 Project Summary
 
