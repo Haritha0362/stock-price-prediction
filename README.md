@@ -1,24 +1,22 @@
 # 📈 Stock Price Prediction and Recommendation System
 
-This is a Streamlit-based web application that predicts stock prices using:
-- Random Forest Regressor
-- Linear Regression
-- Optional: LSTM (deep learning)
+A Streamlit-based ML app that predicts future stock prices using Random Forest, Linear Regression, and optionally LSTM. The app also gives **Buy/Sell/Hold** recommendations based on price change.
 
-It compares real vs. predicted prices and gives simple buy/hold/sell recommendations.
+## 🚀 Features
+- Real-time stock data using Yahoo Finance
+- Models: Random Forest, Linear Regression, LSTM (optional)
+- RMSE & R² score comparisons
+- Buy/Sell/Hold recommendation engine
+- Streamlit UI with interactive graphs
 
-## 🔧 Features
-- Real-time stock data with yfinance
-- Interactive UI with Streamlit
-- MA7, MA20, MA50 indicators
-- Evaluation metrics: RMSE, R²
-- Chart-based comparison
-- Toggle LSTM model for deeper learning
+## 🧠 Tech Stack
+- Python
+- Streamlit
+- yfinance, pandas, numpy
+- scikit-learn, TensorFlow
+- matplotlib
 
-## 📦 Tech Stack
-- Python, Streamlit
-- Scikit-learn, TensorFlow (Keras)
-- Matplotlib, Pandas, NumPy
-
-## 👩‍💻 Author
-Bommaraju Haritha
+## 📊 How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
