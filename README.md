@@ -22,12 +22,3 @@ It compares real vs. predicted prices and gives simple buy/hold/sell recommendat
 
 ## 👩‍💻 Author
 Bommaraju Haritha
-
----
-
-Let me know if you want me to:
-- Write this README file for you
-- Create a `requirements.txt` file
-- Zip the project and hand it to you ready-to-upload
-
-Would you prefer I bundle all these files and give them to you right now for GitHub upload?
